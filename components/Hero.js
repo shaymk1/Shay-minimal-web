@@ -1,18 +1,18 @@
-import Image from 'next/image';
 import { hero } from '@/data/config';
 import { useTheme } from 'next-themes';
+import Image from 'next/image';
 
 export default function Hero() {
   const { theme, setTheme } = useTheme();
   return (
     <div className="mb-20">
       <div className="flex flex-row items-center justify-between w-full">
-        <div className="w-20 h-20 rounded-full relative overflow-hidden">
+        <div className="relative w-20 h-20 overflow-hidden rounded-[50%]">
           <Image
-            src="/static/profile.png"
+            src="/../public/static/profile.jpeg"
             layout="fill"
             objectFit="contain"
-            alt="LeBron"
+            alt="me"
           />
         </div>
         <Image

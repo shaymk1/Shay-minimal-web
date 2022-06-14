@@ -12,10 +12,10 @@ module.exports = {
         white: '#fff',
         lightText: '#76797d'
       }
-    }
-  },
-  variants: {
-    extend: {}
-  },
-  plugins: []
+    },
+    variants: {
+      extend: {}
+    },
+    plugins: []
+  }
 };

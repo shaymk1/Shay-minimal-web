@@ -1,11 +1,11 @@
 export const meta = {
-  title: 'LeBron James - Web Developer and Designer',
-  description: 'Hey, I\'m LeBron. I\'m a web developer and designer building things people love.'
+  title: 'Shay Kekae | Blockchain Developer',
+  description: 'Hi, I\'m Shay. I\'m a Blockchain developer ,building Dapps on Ethereum network using solidity.'
 }
 
 export const hero = {
-  title: "Hey there! I'm LeBron James.",
-  desc: "I'm a web developer and designer building things people love."
+  title: "Hi, I'm Shay",
+  desc: "I'm a Blockchain developer ,building Dapps on Ethereum network using solidity."
 };
 
 export const projects = {
@@ -16,19 +16,19 @@ export const projects = {
       title: 'Lakers Official',
       description: 'Home to the Los-Angeles Lakers',
       link: 'https://lakers.com',
-      github: ''
+      github: 'https://github.com/shaymk1'
     },
     {
       title: 'Cool App',
       description: 'A cool app!',
       link: 'https://lebronscoolapp.com',
-      github: 'theking-lbj/cool-app'
+      github: 'https://github.com/shaymk1'
     },
     {
       title: 'Another app',
       description: 'Another app!',
       link: 'https://anotherlebronapp.com',
-      github: 'theking-lbj/another-app'
+      github: 'https://github.com/shaymk1'
     }
   ]
 };
@@ -36,22 +36,23 @@ export const projects = {
 export const stack = {
   title: 'My Stack',
   stack: [
-    'HTML',
-    'CSS',
+    'Solidity',
+    'Hardhat',
+    'Truffle',
+    'Ganache',
     'JavaScript',
     'Typescript',
     'React',
     'NextJS',
     'TailwindCSS',
-    'Firebase',
-    'Git'
+    'Python'
   ]
 };
 
 export const contact = {
   title: 'Contact Me',
-  email: 'lebron@gmail.com',
+  email: 'm@gmail.com',
   github: 'theking-lbj',
   dribbble: 'theking-lbj',
-  linkedin: 'theking-lbj'
+  linkedin: 'https://github.com/shaymk1'
 };
