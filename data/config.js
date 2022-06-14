@@ -27,7 +27,7 @@ export const projects = {
     {
       title: 'Another app',
       description: 'Another app!',
-      link: 'https://anotherlebronapp.com',
+      link: 'https://anotherapp.com',
       github: 'https://github.com/shaymk1'
     }
   ]
